@@ -7,3 +7,9 @@ Documents uploaded by the user as reference material for this project. Use them 
 - Path: `references/acfe0273dea9_Capture d_e_cran 2026-06-06 a_ 14.35.14.png`
 
 _(image — analyze visually if needed)_
+
+## Capture d_e_cran 2026-06-06 a_ 15.10.37.png
+- Type: `image/png`
+- Path: `references/233379a2202a_Capture d_e_cran 2026-06-06 a_ 15.10.37.png`
+
+_(image — analyze visually if needed)_
